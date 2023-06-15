@@ -1,0 +1,6 @@
+Utilizando CodeSpaces genere: 
+
+El módulo restenz.py con la función enzima que acepta como intpu una secuencia y un fragmento de empalme de la enzima de restricción. El retorno deben ser todos los fragmentos que puede obtenerse al digerir la secuencia con la enzima. 
+Utilice la secuencia de prueba: seq = "CGATGATGAATTCGTACCCGAGCTGAATTCAGCAGAATTCAGCTGATCGATACCAGAATTCCATA"
+Utilice los sitios de empalme de las enzimas EcoR1, HindIII y NotI.
+Entregue el enlace de GitHub con su resolución (archivos .py y .ipynb)
